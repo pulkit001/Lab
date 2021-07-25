@@ -17,44 +17,47 @@ let it be at smaller scale, too many people will increase load on lab and will a
 
 Sponsors need update from us about list of equipment as it is a time-taking process
 Sir suggests buying equipment will not serve the purpose, but buy the tools that will help build setup..
-mechanical and elec fabeication
-mech -- digital(3d printer, laser cutter, sophisticated, small) and heavy(metals and machines, rolling machines, working with pipes and plumbing etc)
-elec -- circuit boards, soldering, voltmeter (quite standard, and so every TL should have this)
-Meet Prof. Narona and lab incarge of Tata centre
-give students demos on how to use these tools and let them come up with projects
+mechanical and elec fabrication
+
+Mech -- digital(3d printer, laser cutter, sophisticated, small) and heavy(metals and machines, rolling machines, working with pipes and plumbing etc)
+Elec -- circuit boards, soldering, voltmeter (quite standard, and so every TL should have this)
+Meet {{Prof. Narona}} and lab incharge of Tata centre
+
+Give students demos on how to use these tools and let them come up with projects
 
 try to see how lab operates remotely
 encourage development and proposals by students
 
-very few TLs in chemical space, so chance to do something innovative
+Very few TLs in chemical space, so chance to do something innovative
 wet chemistry, analytics like hydrometer, refractive index, gas chromatography
 buying everything in advance is not a good idea, do on ad-hoc basis based on what students want
 
-now that everything is online, arrange workshops and webinars on what is possible wrt digitalisaion and industry 4.0, and then ask them to come back with proposals and ideas, validate them, and then decide what is to be bought
+Now that everything is online, arrange workshops and webinars on what is possible wrt digitalisaion and industry 4.0, and then ask them to come back with proposals and ideas, validate them, and then decide what is to be bought
 ask sponsors to wait because buying equipment should not be done in a hurry
 try to replicate model of UG 3rd year lab held 2 years ago
 
-bottom line, don't buy things in advance if you don't know how much they'll be used later -- they will take up money and space and maintenance
+Bottom line, don't buy things in advance if you don't know how much they'll be used later -- they will take up money and space and maintenance
 
 sets of people who participate in TL -- innovators, and people who participate in competitions just for resume points
 culture of universities like MIT quite different and should be inculcated as it's not too late
 support students in 1st category, give incentives to others to buil genuine interest
 give as much exposure as possible
 
-
-on't sell this so hard that people start coming just for resume points, maintain a good balance
+don't sell this so hard that people start coming just for resume points, maintain a good balance
 
 our institute students don't participate in actual event, they just focus on managerial positions for resume points
-azeotropy is good, but shoudl encourage iit students instead of outsiders to participate
 
-microreactors:
-readymade set ups for microreactors are available, good exercise for fabrication
+Azeotropy is good, but should encourage iit students instead of outsiders to participate
+
+Microreactors:
+readymade set ups for Microreactors are available, good exercise for fabrication
 but if aim is to do actual reaction, don't spend time on fabrication
-companies in india also make
+companies in India also make
 
 make division of ChemE TL for people who want to work on chemistry and reactions else lab will become same as existing TL
 
 facility for AI/ML coming up near hostel 7
-AI/ML will take over non-hazardous industries like manufacturing, but more difficult to do it for somehting like chemical
 
-form a techteam around the lab?
+AI/ML will take over non-hazardous industries like manufacturing, but more difficult to do it for something like chemical
+
+form a Techteam around the lab?
