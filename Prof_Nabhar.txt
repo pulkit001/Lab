@@ -1,0 +1,64 @@
+Prof.Rahul Nabar
+
+Agenda
+1.Intro-include the opinions and feedback of students,
+.Start with the Document
+.Started working on equipment list
+.Current Situation-Shortlist equipment for Phase-1
+.Design cell plan layout
+
+2.Ask about industrial topics-feasibility-scalable projects
+.Tell about 3D-Printer-Ask about opinions
+.Ask about UG Labs
+_
+General Feedback
+.HT and fluid mech-Equipment already exists-try not to duplicate them-digitising them would be a great project(get the equipment from UG lab)
+.Generate interest within the Lab-have interesting Projects-find the balance between tough and easy projects
+.Try to make the Lab project-centric, students wont have interest to come and look at equipment-give tasks to students
+.Try to make projects which has connections to other domains like ML,etc
+.M.Tech-they are an asset to us-useful in mentoring and might have good ideas-Talk to HOD
+.Projects can be focused on how to build cheap equipment
+
+Feedback on long term ideas-
+LT1-Good initiative
+LT2-Great work might make Azeotropy more interesting-Ask Azeotropy team my IIT participation is very low
+LT3-Conduct workshops on ChemE specific software-Labview,Opto
+.must gauge interest within the students before the event-people should turn up(recurring problem in our Dept
+.Research about ChemE specific digitisation
+
+Feedback on Short Term Events
+.Make some talks relevant to current industry-Prof Nabar ready to help us out
+.Prof. Nabar ready to do some mentoring etc in the initial stages to give students an idea
+.Conduct competitions on making some basic instruments-pumps etc
+
+Vendors
+.Talk to them-They will be ready for talks etc,they can also gift equipment or give discounts-If the project has good impact
+.Focus on project Kits
+
+ML-Software related(Industry 4.0)
+.A great avenue for exploration
+.Try to form a tech team in our dept
+.can work on a reactor(small) and use sensors etc to digitise it-will be of great use in the Resume
+.We are good on software skills-need to introduce students to hardware side,sensors etc-to acquire data(data acquisition cards)
+.Try to create digital twins
+
+Micro-Fluidics
+.The other end of the spectrum-Talk to profs related to that
+.Can be produced with 3D printers
+.BioChem related projects-maybe sometime in the long run-needs mentors and additional help-might need an air conditioned room
+
+Budget related
+.Split the budget into two-Capital and Running Costs-contact GSTA to get to know the annual budget of the Lab.
+.no use in having equipment but not enough money to maintain them
+.Give the sponsors Phase-1 list-made up of sensors,basic equipment like centrifuge and 3D printer
+
+
+
+////////////////////////////////////////////////////////////////////
+Further Plan of Action
+.Research about Industry 4.0
+.Research about ChemE specific software etc
+.Find out about the National competitions in ChemE,then maybe for a tech team around that
+.Meet with Prof.Sanjay mahajani-to get to know about micro reactors etc
+.Meet with Profs involved in microfluidics
+.Set the bar high for the Lab-we have enough Budget to do that.
